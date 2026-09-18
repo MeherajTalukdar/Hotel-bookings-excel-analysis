@@ -146,7 +146,3 @@ Both issues, and the recommended fix, are documented in full in `reports/Hotel_P
 - End-to-end Excel fluency: formulas → PivotTables → Power Query → Power Pivot/DAX → What-If Analysis → dashboard.
 - The habit of validating a dashboard's numbers against its own source data before presenting them — not just building the dashboard.
 - Translating a technical analysis into a prioritized, owner-assigned business recommendation, the deliverable format used in real revenue-management and BI reporting roles.
-
-## Author
-
-**Meheraj Talukdar** — [GitHub](https://github.com/MeherajTalukdar)
